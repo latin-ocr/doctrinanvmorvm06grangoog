@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./doctrinanvmorvm06grangoog/doctrinanvmorvm06grangoog_0012.png"; bbox 0 0 4422 5546; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 337 1867 1582 2486">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 337 1867 1582 2486">
+     <span class='ocr_line' id='line_1_1' title="bbox 583 1867 1571 2077; baseline -0.007 0"><span class='ocrx_word' id='word_1_1' title='bbox 583 1867 1391 2077; x_wconf 50' lang='lat' dir='ltr'>DOCTRINA&#39;</span> <span class='ocrx_word' id='word_1_2' title='bbox 1566 2057 1571 2070; x_wconf 83' lang='lat'><strong>.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 337 2303 1582 2486; baseline 0.001 -68"><span class='ocrx_word' id='word_1_3' title='bbox 337 2303 922 2425; x_wconf 83' lang='lat' dir='ltr'><strong>NVMORVM</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 993 2303 1582 2486; x_wconf 72' lang='lat' dir='ltr'>VETERVM.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 791 2719 1176 2756">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 791 2719 1176 2756">
+     <span class='ocr_line' id='line_1_3' title="bbox 791 2719 1176 2756; baseline 0 -6"><span class='ocrx_word' id='word_1_5' title='bbox 791 2719 1176 2756; x_wconf 51' lang='lat' dir='ltr'>...u-*uu-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2216 5546">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2216 5546">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2216 5546; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 2216 5546; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
